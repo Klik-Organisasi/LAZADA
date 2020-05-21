@@ -6,4 +6,4 @@ Bayar Lebih Mudah
 <br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja
 <i/>
 
-[Paypal](https://www.paypal.com/sdk/js?client-id)
+[Paypal](https://www.paypal.com/sdk/js?client-id=d2d627d8c5954)
