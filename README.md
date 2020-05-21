@@ -6,4 +6,4 @@ Bayar Lebih Mudah
 <br/><i> Binggung Dengan Pembayaran💳 Bayar Di 👇 aja
 <i/>
 
-[Paypal](https://www.paypal.com/sdk/js?client-id=suplayergo@gmail.com)
+[Paypal](https://github.com/Klik-Organisasi/LAZADA/blob/master/Scrip.java)
